@@ -5,8 +5,6 @@ A simple CRUD (Create, Read, Update, Delete) application built
 ## Requirements
 
 - PHP 8.x
-- MySQL
-- XAMPP
 - VS Code
 
 ## Installation
@@ -38,7 +36,7 @@ Start:
 - Apache
 - MySQL
 
-### Step 4: Create Database
+### Step 4: open chrome add
 
 Open:
 
@@ -55,7 +53,7 @@ http://localhost/simple-html-crud
 Open your browser:
 
 ```
-http://localhost/crud_html/
+(http://localhost/simple-html-crud)
 ```
 
 ## Features
