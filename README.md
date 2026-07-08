@@ -42,8 +42,7 @@ Start:
 
 Open your browser:
 
-```
-http://localhost/simple-html-design-/
+```http://localhost/simple-crud-design-/)
 ```
 
 ## Features
