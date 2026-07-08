@@ -35,14 +35,6 @@ Start:
 - Apache
 - MySQL
 
-### Step 4: open chrome add
-
-Open:
-
-http://localhost/simple-crud-design-/
-```
-
-
 
 ```
 
@@ -51,7 +43,7 @@ http://localhost/simple-crud-design-/
 Open your browser:
 
 ```
-(http://localhost/simple-html-crud)
+http://localhost/simple-html-design-/
 ```
 
 ## Features
