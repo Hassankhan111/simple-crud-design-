@@ -55,7 +55,7 @@ http://localhost/phpmyadmin
 Open your browser:
 
 ```
-http://localhost/simple-html-crud
+http://localhost/crud_html/
 ```
 
 ## Features
