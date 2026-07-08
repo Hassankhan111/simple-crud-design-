@@ -43,7 +43,7 @@ Start:
 Open:
 
 ```
-http://localhost/phpmyadmin
+http://localhost/simple-html-crud
 ```
 
 
