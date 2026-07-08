@@ -25,8 +25,7 @@ C:\xampp\htdocs\
 
 The project path should be:
 
-```
-C:\xampp\htdocs\simple-html-crud
+```http://localhost/simple-crud-design-/
 ```
 
 ### Step 3: Start XAMPP
@@ -40,8 +39,7 @@ Start:
 
 Open:
 
-```
-http://localhost/simple-html-crud
+http://localhost/simple-crud-design-/
 ```
 
 
